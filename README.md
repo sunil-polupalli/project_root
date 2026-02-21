@@ -128,5 +128,5 @@ ERROR: Malformed JSON received: just another bad payload
 
 ## GCP Metrics Screenshot
 
-*(Ensure you take a screenshot of your GCP Pub/Sub Subscription metrics tab and save it as `pubsub-metrics.png` in your root folder for bonus points!)*
+![Pub/Sub Metrics](./pubsub-metrics.png)
 
